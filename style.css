@@ -1,11 +1,19 @@
+/* main */
+
 html {
     /* webpage background */
     background: #2f4f4f;
     color: #fff8e7;
 }
 
-main {
-    /* middle box */
+[href] {
+    /* link colors */
+    color: #fff8e7;
+}
+
+/* id */
+
+#social-box {
     margin: auto;
     width: 350px;
     padding: 50px 0;
@@ -18,14 +26,6 @@ main {
 }
 
 #profile-picture {
-    /* profile picture */
     border: 1em;
     border-radius: 10em; 
 }
-
-[href] {
-    /* link colors */
-    color: #fff8e7;
-}
-
-/* fonts will go here - la */
