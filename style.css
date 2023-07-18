@@ -1,31 +1,5 @@
-/* main */
-
 html {
     /* webpage background */
     background: #2f4f4f;
     color: #fff8e7;
-}
-
-[href] {
-    /* link colors */
-    color: #fff8e7;
-}
-
-/* id */
-
-#social-box {
-    margin: auto;
-    width: 350px;
-    padding: 50px 0;
-    background-color: rgb(42, 54, 54);
-    border: 1em;
-    border-radius: 1em;
-
-    text-align: center;
-    font-family: 'BlexMono Nerd Font Mono', 'Nimbus Mono PS', 'Courier New', monospace;
-}
-
-#profile-picture {
-    border: 1em;
-    border-radius: 10em; 
 }

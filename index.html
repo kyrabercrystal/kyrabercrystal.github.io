@@ -4,8 +4,41 @@
         <title>Home</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="style.css">
+
+        <style>
+            [href] {
+                color: #fff8e7;
+            }
+
+            #social-button {
+                background-color: rgb(42, 54, 54);
+                border-color: rgb(42, 54, 54);
+                font-size: 15px;
+                color: #fff8e7;
+                margin-top: -10px;
+                margin-right: -8px;
+                }
+            
+            #top-box {
+                height: 50px;
+                background-color: rgb(42, 54, 54);
+                margin-top: -50px;
+                margin-left: -8px;
+            }
+
+            #cat-gif {
+                width: 100%;
+                
+            }
+        </style>
     </head>
     <body>
-        <a href="social.html">temporary social link</a>
+        <div style="text-align: right;">
+            <button id="social-button" onclick="window.location.href='social.html';"><p>socials</p></button>
+        </div>
+        <div id="top-box"></div>
+        <div>
+            <img id="cat-gif" src="images/cat-spinning.gif">
+        </div>
     </body>
 </html>
