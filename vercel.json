@@ -1,0 +1,26 @@
+{  
+    "redirects": [
+        {
+            "source": "/source",
+            "destination": "https://github.com/kyrabercrystal/kyrabercrystal.github.io",
+            "permanent": true
+        },
+
+        {
+            "source": "/git",
+            "destination": "https://github.com/kyrabercrystal",
+            "permanent": true
+        },
+
+        {
+            "source": "/spotify",
+            "destination": "https://open.spotify.com/user/3176oliepjlqo3c3scxlry6shbhi?si=e275a0e73f094fa1",
+            "permanent": true
+        }
+
+    ],
+
+    "cleanUrls": true,
+    "trailingSlash": false
+}
+
