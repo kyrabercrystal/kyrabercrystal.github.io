@@ -42,3 +42,11 @@
 	color: #7295b6;
 	text-decoration: none;
 }
+
+#omglol-box {
+    width: 460px;
+    float:left; /* add this */
+}
+#projects-box {
+    float: left; /* add this */
+}
