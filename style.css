@@ -24,3 +24,11 @@ body {
 [href] {
 	color: #fff8e7;
 }
+
+.div-turq-box {
+	background-color: #1f252e98;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 1em;
+    width: fit-content;
+}
