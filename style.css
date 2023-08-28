@@ -45,8 +45,25 @@
 
 #omglol-box {
     width: 460px;
-    float:left; /* add this */
+    float:left;
+	/* border: 1px solid red; */
 }
+
 #projects-box {
-    float: left; /* add this */
+	width: 400px;
+	height: 330px;
+    float: left;
+	/* border: 1px solid red; */
+}
+
+#people-box {
+	float: left;
+	width: 400;
+	/* border: 1px solid red; */
+}
+
+#wrapper1 {
+    width: 1000px;
+    /* border: 1px solid red; */
+    overflow: hidden; /* add this to contain floated children */
 }
