@@ -46,24 +46,20 @@
 #omglol-box {
     width: 460px;
     float:left;
-	/* border: 1px solid red; */
 }
 
 #projects-box {
 	width: 400px;
 	height: 330px;
     float: left;
-	/* border: 1px solid red; */
 }
 
 #people-box {
 	float: left;
-	width: 400;
-	/* border: 1px solid red; */
+	width: 400px;
 }
 
 #wrapper1 {
     width: 1000px;
-    /* border: 1px solid red; */
     overflow: hidden; /* add this to contain floated children */
 }
