@@ -44,8 +44,8 @@
 }
 
 #omglol-box {
-    width: 460px;
-    float:left;
+    width: 400px;
+    float: left;
 }
 
 #projects-box {
@@ -56,10 +56,34 @@
 
 #people-box {
 	float: left;
+	width: 890px;
+	height: 330px;
+}
+
+#screenshot-box {
+	float: left;
 	width: 400px;
+	height: 330px;
+}
+
+#interest-box {
+	float: left;
+	width: 360px;
+	height: 750px;
 }
 
 #wrapper1 {
-    width: 1000px;
-    overflow: hidden; /* add this to contain floated children */
+    width: 1870px;
+	height: 815px;
+    overflow: hidden;
+	/* border: 1px solid red; */
+}
+
+#wrapper2{
+	width: 980px;
+	height: 400px;
+	margin-top: 400px;
+	margin-left: 430px;
+	position: absolute;
+	/* border: 1px solid yellow; */
 }
