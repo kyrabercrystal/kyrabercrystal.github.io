@@ -27,6 +27,8 @@
 
 .light-blue-background-and-white-font {
 	background: #2f4f4f;
+	width: 100vw;
+        height: 100vh;
 	font-family: 'BlexMono Nerd Font Mono', ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 }
 
