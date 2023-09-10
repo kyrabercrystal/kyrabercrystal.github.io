@@ -109,7 +109,7 @@
 	min-width: 792px;
 	max-width: 792px;
 	min-height: 330px;
-	max-height: 390px;
+	max-height: none;
 }
 
 .flexbox-screenshots {
