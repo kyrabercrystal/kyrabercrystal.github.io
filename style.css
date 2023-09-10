@@ -34,6 +34,7 @@
 	display: flex;
 	flex-wrap: wrap;
 	max-width: 1800px;
+	max-height: none;
 }
 
 .flexbox-container-1-1 {
@@ -80,8 +81,8 @@
 .flexbox-credits {
 	min-width: 792px;
 	max-width: 792px;
-	min-height: none;
-	max-height: none;
+	min-height: 330px;
+	max-height: 660px;
 }
 
 .flexbox-screenshots {
