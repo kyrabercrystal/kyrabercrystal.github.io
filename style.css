@@ -32,6 +32,7 @@
 
 .flexbox-container-1 {
 	display: flex;
+	margin: auto;
 	flex-wrap: wrap;
 	max-width: 1800px;
 	max-height: none;
